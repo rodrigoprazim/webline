@@ -1,0 +1,29 @@
+html, body{margin: 0; padding: 0; width: 100%;}
+.back-red{}
+.back-green{overflow: auto;}
+.back-yellow{overflow: auto;}
+.back-pink{}
+.back-orange{}
+.col-height-full{min-height: 100%;height: 100%; position: absolute;}
+.heigth-full-top{max-height: 180px;height: 180px;padding: 0px;text-align: center;}
+.heigth-full-body{height: -webkit-calc(100% - 230px);height: -moz-calc(100% - 230px);height: calc(100% - 230px);padding-top: 10px;padding-bottom: 10px;}
+.heigth-full-footer{max-height: 50px;height: 50px;padding: 0px;text-align: center;}
+.td_menu{height: 100%;width: 100%;vertical-align: top;}
+.td_corpo{height: 100%;width: 100%;vertical-align: top;}
+#tb_menu{border:0px solid; width:100%;height: 100%;border-radius: 5px 5px 0 0;}
+#tb_corpo{border:1px solid; width:100%;height: 100%;border-radius: 5px 5px 0 0;}
+.full-heigth{height: 100%}
+.align-div-footer{min-height:50px;vertical-align: middle;text-align: center;}
+.table-menu{margin:30px;width: calc(100% - 60px);border-spacing: 10px;}
+.table-menu tr td{background-color: #003399;}
+.table-menu tr td{margin-top: 10px;margin-bottom: 10px;}
+div#titulo_conteudo{width: 30%;font-size: 30px;text-shadow: 0.5px 0.5px #FFFFFF;margin-bottom: 30px}
+.table_full_into{width:40%;border:0px solid #FFFFFF;}
+.table_title{background-color: #404040;color: #FFFFFF;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.5px; font-weight: bold;}
+.table_subtitle{background-color: #4A708B;color: #FFFFFF;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.5px; font-weight: bold;}
+.table_subtitle_into{background-color: #C5C5C5;color: #FFFFFF;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12.5px; font-weight: bold;}
+.titulo_tr td{background-color: #FFFFFF;color: #000000;font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11.5px; font-weight: bold;}
+.table_padding_vt td{padding-left:10px;padding-right:10px;}
+.table_padding_hz td{padding-top:10px;padding-bottom:10px;}
+.table_padding_hz_small td{padding-top:4px;padding-bottom:4px;}
+.back-c{background-color: #e2e2e2;}

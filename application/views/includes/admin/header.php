@@ -1,0 +1,1 @@
+<legend style="font-size: 15px;">Bem vindo, você está logado como: <b>Administrador</b> | <a href="#">Alterar Senha</a> | <a href="<?=base_url()?>">Voltar à tela inicial</a> | <a href="<?=base_url().'admin/logout'?>">Sair</a></legend>
